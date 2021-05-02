@@ -1,0 +1,20 @@
+{
+    "commun": {
+        "ok": "Ok",
+        "add": "Ajouter"
+    },
+    "dialog": {
+        "errTech": "Service indisponible",
+        "errTechText": "Le service est momentanément indisponible. Veuillez nous excuser pour la gêne occasionnée. Nous vous invitons à réessayer ultérieurement."
+    },
+    "tabs": {
+        "supplierName": "Le nom du fournisseur",
+        "price": "Prix",
+        "amountOfMaterials": "Nombre de materials"
+    },
+    "errorBounday": {
+        "title": "Ooops! Vous avez a rencontré une erreur fatale",
+        "description": "Une erreur est survenue et a été transmise. Merci de réessayer à nouveau.",
+        "redirectToHome": "Retour à l'acceuil"
+    }
+}
